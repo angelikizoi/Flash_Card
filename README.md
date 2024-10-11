@@ -2,6 +2,8 @@
 
 This is a simple **Flashcard Application** built using Python's **Tkinter** for the graphical user interface (GUI) and **Pandas** to handle word data stored in CSV files. The application helps users practice French-to-English translations by displaying a French word, allowing the user to guess the meaning, and then showing the English translation.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
+
 ## Features
 
 - Displays a random French word from a dataset.
@@ -35,8 +37,8 @@ This is a simple **Flashcard Application** built using Python's **Tkinter** for 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/angelikizoi/flashcard-app.git
-   cd flashcard-app
+   git clone https://github.com/angelikizoi/GUI_Learning-French_Words.git
+   cd GUI_Learning-French_Words
    ```
 
 2. **Install required dependencies**:
